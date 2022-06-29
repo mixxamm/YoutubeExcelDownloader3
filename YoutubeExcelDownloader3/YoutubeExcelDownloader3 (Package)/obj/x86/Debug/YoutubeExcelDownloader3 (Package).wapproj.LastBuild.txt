@@ -1,0 +1,37 @@
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\SplashScreen.scale-200.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\StoreLogo.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\resources.pri
+C:\Users\maxim\.nuget\packages\anglesharp\0.17.0\lib\netstandard2.0\AngleSharp.dll
+C:\Users\maxim\.nuget\packages\cliwrap\3.4.4\lib\netcoreapp3.0\CliWrap.dll
+C:\Users\maxim\.nuget\packages\exceldatareader\3.6.0\lib\netstandard2.0\ExcelDataReader.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\maxim\.nuget\packages\youtubeexplode\6.2.0\lib\net5.0\YoutubeExplode.dll
+C:\Users\maxim\.nuget\packages\youtubeexplode.converter\6.2.0\lib\net5.0\YoutubeExplode.Converter.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\.nuget\packages\microsoft.windowsappsdk\1.0.3\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.25\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\maxim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.25\lib\WinRT.Runtime.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\YoutubeExcelDownloader3.deps.json
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\obj\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\obj\x86\Debug\net6.0-windows10.0.19041.0\apphost.exe
+C:\Users\maxim\.nuget\packages\exceldatareader\3.6.0\lib\netstandard2.0\ExcelDataReader.pdb
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\YoutubeExcelDownloader3.runtimeconfig.json
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\YoutubeExcelDownloader3.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3\bin\x86\Debug\net6.0-windows10.0.19041.0\YoutubeExcelDownloader3.pdb

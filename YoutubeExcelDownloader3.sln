@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "YoutubeExcelDownloader3 (Package)", "YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\YoutubeExcelDownloader3 (Package).wapproj", "{674995B1-72AB-41D0-ABDA-323FD88EEB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeExcelDownloader3", "YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3.csproj", "{C24C6469-955C-420F-A0C3-9AD934808B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|arm64.ActiveCfg = Debug|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|arm64.Build.0 = Debug|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|arm64.Deploy.0 = Debug|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x64.ActiveCfg = Debug|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x64.Build.0 = Debug|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x64.Deploy.0 = Debug|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x86.ActiveCfg = Debug|x86
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x86.Build.0 = Debug|x86
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Debug|x86.Deploy.0 = Debug|x86
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|arm64.ActiveCfg = Release|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|arm64.Build.0 = Release|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|arm64.Deploy.0 = Release|arm64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x64.ActiveCfg = Release|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x64.Build.0 = Release|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x64.Deploy.0 = Release|x64
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x86.ActiveCfg = Release|x86
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x86.Build.0 = Release|x86
+		{674995B1-72AB-41D0-ABDA-323FD88EEB0D}.Release|x86.Deploy.0 = Release|x86
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|arm64.ActiveCfg = Debug|arm64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|arm64.Build.0 = Debug|arm64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|x64.ActiveCfg = Debug|x64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|x64.Build.0 = Debug|x64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|x86.ActiveCfg = Debug|x86
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Debug|x86.Build.0 = Debug|x86
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|arm64.ActiveCfg = Release|arm64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|arm64.Build.0 = Release|arm64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|x64.ActiveCfg = Release|x64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|x64.Build.0 = Release|x64
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|x86.ActiveCfg = Release|x86
+		{C24C6469-955C-420F-A0C3-9AD934808B4D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9F4099-68C1-4D1B-B000-2D58406C2276}
+	EndGlobalSection
+EndGlobal

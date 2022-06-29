@@ -1,0 +1,51 @@
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\App.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\MainWindow.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.WinUI.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\Microsoft.Windows.SDK.NET.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\WinRT.Runtime.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExcelDownloader3.deps.json
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\App.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\MainWindow.xbf
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExcelDownloader3.exe
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExcelDownloader3.runtimeconfig.json
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExcelDownloader3.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExcelDownloader3.pdb
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\resources.pri
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3 (Package).build.appxrecipe
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\YoutubeExcelDownloader3 (Package).wapproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\YoutubeExcelDownloader3 (Package).wapproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\YoutubeExcelDownloader3.pri.xml
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\obj\x86\Debug\YoutubeExcelDownloader3 (Package).wapproj.LastBuild.txt
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\AngleSharp.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\CliWrap.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\ExcelDataReader.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExplode.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\YoutubeExplode.Converter.dll
+C:\Users\maxim\source\repos\YoutubeExcelDownloader3\YoutubeExcelDownloader3\YoutubeExcelDownloader3 (Package)\bin\x86\Debug\YoutubeExcelDownloader3\ExcelDataReader.pdb
